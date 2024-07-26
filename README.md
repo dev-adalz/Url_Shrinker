@@ -1,6 +1,10 @@
 # URL Shrinker CLI
 
 This is a simple command-line interface (CLI) tool for URL shrinking, written in Python 3.11. The tool uses the `requests` module to interact with a URL shortening API, the `colorama` module to add some color to the CLI, and the `os` module to handle some background tasks. 
+![Home Page](https://github.com/user-attachments/assets/12fabeaf-19bc-41dd-b40e-f75b5e7f477a)
+![Generating links](https://github.com/user-attachments/assets/4f90e5e0-e007-444a-8b37-c905865060a7)
+![Result](https://github.com/user-attachments/assets/90788129-0f26-4368-9855-c24a794beeb1)
+
 
 ## Features
 
